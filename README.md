@@ -81,3 +81,10 @@ Always create a restore point before applying tweaks.
 ## License
 
 MIT License
+---
+## Disclaimer
+This project is provided "as is" without any warranty.
+
+The authors are not responsible for any damage or data loss caused by misuse of this software.
+
+Always create a restore point before applying tweaks.

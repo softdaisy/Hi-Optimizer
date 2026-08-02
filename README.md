@@ -91,3 +91,12 @@ The authors are not responsible for any damage or data loss caused by misuse of 
 
 Always create a restore point before applying tweaks.
 ---
+🔍 Open Source
+
+HI+ Optimizer is an open-source Windows optimization project.
+
+The complete source code is available in this repository for anyone to inspect, review, or improve. The project does not collect personal data, download hidden files, or perform background network activity without the user's knowledge.
+
+Because this tool modifies Windows settings such as the registry, services, boot configuration, and power options, some antivirus engines may classify it as Riskware, PUA (Potentially Unwanted Application), or produce heuristic detections. These detections are common for system optimization tools and do not necessarily indicate malicious behavior.
+
+If you have any concerns, please review the source code before running the script or contribute improvements through GitHub.

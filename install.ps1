@@ -3,7 +3,7 @@
 
 $ErrorActionPreference = "Stop"
 
-$BatUrl = "https://raw.githubusercontent.com/softdaisy/Hi-Optimizer/main/HIOptimizer.bat"
+$BatUrl = "https://raw.githubusercontent.com/softdaisy/Hi-Optimizer/refs/heads/main/HIOptimizer.bat"
 $BatFile = Join-Path $env:TEMP "HIOptimizer.bat"
 
 Write-Host ""

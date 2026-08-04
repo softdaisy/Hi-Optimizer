@@ -1,4 +1,3 @@
-@@ -1,10 +1,16 @@
 # HI+ Optimizer Installer / Launcher
 # https://github.com/softdaisy/Hi-Optimizer
 # HI+ Optimizer Installer
